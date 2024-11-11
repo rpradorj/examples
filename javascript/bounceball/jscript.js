@@ -1,4 +1,3 @@
-
 // This JavaScript animate a bounce ball on canvas
 // Author: Ronaldo Prado
 // Date: 11/03/2024
